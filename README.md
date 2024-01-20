@@ -16,7 +16,7 @@ It is a third-person shooter game made with simple mechanics. The game features 
 - In this project, free ready-made assets from the Unreal Engine Marketplace have been utilized. 
 - Player and enemy characters have been created using these assets.
 - The player is overlaid on the third-person asset in the Unreal Engine.
-- NPC characters are prepared using a simple AI through blueprints.
+- NPC characters are prepared using a simple AI through blueprints. But they are a bit dumb.
 - A ready-made map asset has been used for the game environment.
 - The health of AI characters is displayed on the characters with a small health bar. The player also has a health bar located on the left side of the screen.
 
@@ -37,4 +37,4 @@ https://www.unrealengine.com/en-US/download
 • Then the project should start automatically in a few seconds.
 ## Screenshots
 
-Screenshots will be uploaded.
+![tps_game](https://github.com/ceydaecearslan/Third_Person_Shooter_UnrealEngine/blob/main/tps_game.png)
