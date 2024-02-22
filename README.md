@@ -22,7 +22,7 @@ It is a third-person shooter game made with simple mechanics. The game features 
 
 ## Deployment
 
-• First you need to have Unreal Engine 5.3.2 installed. If you don't have it, please download and install an appropriate version of Unity from the following link: 
+• First you need to have Unreal Engine 5.3.2 installed. If you don't have it, please download and install an appropriate version of Unreal Engine from the following link: 
 
 https://www.unrealengine.com/en-US/download
 
